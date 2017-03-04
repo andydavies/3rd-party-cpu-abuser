@@ -1,6 +1,8 @@
 Why
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jpvincent/3rd-party-cpu-abuser.svg)](https://greenkeeper.io/)
+
 Lot of sites are bloated with ads and other 3rd parties, all of them trying to abuse the CPU, leading the user to leave because the page is so laggy. JS Profiling is often the key to start a negociation with your 3rd party (or remove them…) but takes time. This project will help you identify quickly wich domain name eats most of the CPU.
 
 # Install
